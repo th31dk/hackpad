@@ -2,7 +2,7 @@
 This is my submission for hackpad.
 
 ## BOM
-[BOM File](BOM.csv)
+[BOM File](https://github.com/th31dk/hackpad/blob/main/Hackpad%20PCB/BOM.csv)
 9 Cherry MX Switches  
 9 1N4148 Diodes  
 9 Blank DSA Keycaps  
