@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16","16","SK6812MINI","","","","LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm","https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
+"D17,D18,D19,D20,D21,D22,D23,D24,D25","9","1N4148","","","","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9","9","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","~"
+"SW13","1","RotaryEncoder_Switch","","","","","~"
+"U1","1","XIAO-RP2040-DIP","","","","OPL:XIAO-RP2040-DIP",""
+"U2","1","DM-OLED096-636","","","","OLED:SSD1306-0.91-OLED-4pin-128x32",""
