@@ -27,8 +27,8 @@ It's help together by 4 heat inserts and 4 M3x16 bolts.
 |---|---
 |![Image](https://i.ibb.co/27Lr9F8Z/Screenshot-2025-11-30-204244.png)|![Image](https://i.ibb.co/WWdNb0yp/image-2025-11-30-204513064.png)|
 
-PCB 3D Model
-![Image](https://i.ibb.co/TD0HCTN2/image-2025-11-30-205027127.png)
+PCB 3D Model:  
+![Image](https://i.ibb.co/TD0HCTN2/image-2025-11-30-205027127.png)  
 This was my first time using KiCad, so it isn't the best. Although it took the longest out of everything in this project, I had a lot of fun designing the PCB.
 
 ## Final Thoughts
