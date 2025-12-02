@@ -19,7 +19,7 @@ This is my submission for hackpad.
 |![Image](https://i.ibb.co/j9LqRXdY/image-2025-12-02-103502225.png)|![Image](https://i.ibb.co/QFGb8vcQ/image-2025-12-02-103758053.png)|
 
 Assembly:  
-![Image](https://i.ibb.co/Q3Lcz7dW/image-2025-11-30-203757739.png)
+![Image](https://i.ibb.co/Q3Lcz7dW/image-2025-11-30-203757739.png)  
 It's help together by 4 heat inserts and 4 M3x16 bolts.
 
 ## PCB
